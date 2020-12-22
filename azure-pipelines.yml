@@ -5,6 +5,7 @@
 # This edit to check continous integration
 #Trying again for CI action
 #Hello
+# Trying again to check CI operations after setting trigger from main to master
 
 trigger:
 - master
